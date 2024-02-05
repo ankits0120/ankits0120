@@ -1,8 +1,8 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/developer-high-on-caffeine-4337849-3618986.mp4"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankits0120&label=Profile%20views&color=0e75b6&style=flat" alt="ankits0120" /> </p>
+<img align="right" alt="Coding" width="400" src="https://bilginc.com/editorFiles/335ac57e.gif"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankits0120&label=Profile%20views&color=0e75b6&style=flat" alt="ankits0120"/> </p>
 
 - 📫 How to reach me **aankit47447@gmail.com**
 
